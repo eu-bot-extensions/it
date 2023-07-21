@@ -1,17 +1,17 @@
 /*！
- * @file pxt-eu-rate/main.ts
+ * @file /eu-bot-extensions/it/main.ts
  * @brief EuRate microbit motors and sensors makecode library.
  *
- * @copyright	[EuRate](https://github.com/SimoneDavi55/pxt-eu-rate/blob/master/LICENSE), 2023
+ * @copyright	[EuRate](https://github.com/eu-bot-extensions/it/blob/master/LICENSE), 2023
  * @copyright	MIT License
  *
  * @author [GitHub](https://github.com/SimoneDavi55)
- * @version  V0.0.1
+ * @version  V0.2.0
  */
 /**
  *EuRate Makecode extension
  */
-//% weight=10 color=#DF6721 icon="\uf11b" block="Eu Rate library"
+//% weight=10 color=#DF6721 icon="\uf11b" block="Eu Rate library IT"
 namespace eurate {
 
     const PCA9685_ADDRESS = 0x40
