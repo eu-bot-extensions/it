@@ -110,9 +110,9 @@ namespace eurate {
      * The user defines the motor rotation direction.
      */
     export enum Dir {
-        //% blockId="CW" block="CW"
+        //% blockId="CW" block="Orario"
         CW = 1,
-        //% blockId="CCW" block="CCW"
+        //% blockId="CCW" block="Anti-Orario"
         CCW = -1,
     }
 
@@ -120,16 +120,16 @@ namespace eurate {
      * The user defines the straight line direction.
      */
     export enum TwoDDir {
-        //% blockId="FW" block="FW"
+        //% blockId="FW" block="Avanti"
         FW = 1,
-        //% blockId="BW" block="BW"
+        //% blockId="BW" block="Indietro"
         BW = -1,
     }
 
     export enum DirRot {
-        //% blockId="Right" block="Right"
+        //% blockId="Right" block="Destra"
         Right = 1,
-        //% blockId="Left" block="Left"
+        //% blockId="Left" block="Sinistra"
         Left = -1,
     }
 
